@@ -30,7 +30,6 @@ x64/
 *.vssscc
 .builds
 *.pidb
-*.log
 *.scc
 *.psess
 *.vsp
@@ -39,3 +38,7 @@ x64/
 Desktop.ini
 .vs/
 project.lock.json
+
+# macOS system files
+.DS_Store
+._*
